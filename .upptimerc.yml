@@ -16,8 +16,8 @@ status-website:
   cname: uptime.lightcrimson.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Uptime**"
+  name: Yurihikari Upptime
+  introTitle: "**Yurihikari Upptime Instance**"
   introMessage: Status page for my hosted services/websites
   navbar:
     - title: Status

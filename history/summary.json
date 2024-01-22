@@ -4,19 +4,19 @@
     "url": "https://wiki.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lightcrimson.com.ico",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "32.44%",
-    "uptimeDay": "32.44%",
-    "uptimeWeek": "32.44%",
-    "uptimeMonth": "32.44%",
-    "uptimeYear": "32.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.06%",
+    "uptimeDay": "4.06%",
+    "uptimeWeek": "4.06%",
+    "uptimeMonth": "4.06%",
+    "uptimeYear": "4.06%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-01-22": 3
+      "2024-01-22": 38
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://speedtest.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.lightcrimson.com.ico",
     "slug": "speed-test",
-    "status": "down",
-    "uptime": "48.71%",
-    "uptimeDay": "48.71%",
-    "uptimeWeek": "48.71%",
-    "uptimeMonth": "48.71%",
-    "uptimeYear": "48.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.11%",
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "4.11%",
+    "uptimeMonth": "4.11%",
+    "uptimeYear": "4.11%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2024-01-22": 2
+      "2024-01-22": 37
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/lightcrimson.com.ico",
     "slug": "whoogle",
-    "status": "down",
-    "uptime": "95.72%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "95.72%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "95.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.15%",
+    "uptimeDay": "4.15%",
+    "uptimeWeek": "4.15%",
+    "uptimeMonth": "4.15%",
+    "uptimeYear": "4.15%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
     "dailyMinutesDown": {
-      "2024-01-22": 0
+      "2024-01-22": 35
     }
   }
 ]

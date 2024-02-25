@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 350,
-    "timeDay": 351,
-    "timeWeek": 326,
+    "time": 349,
+    "timeDay": 308,
+    "timeWeek": 322,
     "timeMonth": 351,
-    "timeYear": 350,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2024-01-22": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 348,
-    "timeDay": 349,
-    "timeWeek": 332,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "time": 347,
+    "timeDay": 306,
+    "timeWeek": 327,
+    "timeMonth": 347,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2024-01-22": 37
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lightcrimson.com.ico",
     "slug": "whoogle",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
-    "time": 423,
-    "timeDay": 410,
-    "timeWeek": 416,
-    "timeMonth": 419,
-    "timeYear": 423,
+    "uptimeYear": "99.90%",
+    "time": 421,
+    "timeDay": 353,
+    "timeWeek": 406,
+    "timeMonth": 417,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2024-01-23": 15,
       "2024-01-22": 35

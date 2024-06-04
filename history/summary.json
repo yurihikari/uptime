@@ -4,11 +4,11 @@
     "url": "https://wiki.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lightcrimson.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.89%",
     "time": 375,
     "timeDay": 288,
@@ -16,6 +16,7 @@
     "timeMonth": 341,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-06-04": 3,
       "2024-04-04": 176,
       "2024-01-22": 38
     }
@@ -25,10 +26,10 @@
     "url": "https://speedtest.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.lightcrimson.com.ico",
     "slug": "speed-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 375,
@@ -37,6 +38,7 @@
     "timeMonth": 350,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-06-04": 2,
       "2024-04-04": 175,
       "2024-01-22": 37
     }
@@ -46,7 +48,7 @@
     "url": "https://lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/lightcrimson.com.ico",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -58,6 +60,7 @@
     "timeMonth": 447,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-04-04": 173,
       "2024-01-23": 15,
       "2024-01-22": 35

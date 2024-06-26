@@ -7,8 +7,6 @@ sites:
     url: https://wiki.lightcrimson.com
   - name: SpeedTest
     url: https://speedtest.lightcrimson.com
-  - name: Whoogle
-    url: https://lightcrimson.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

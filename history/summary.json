@@ -4,10 +4,10 @@
     "url": "https://wiki.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.lightcrimson.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 378,
@@ -16,6 +16,7 @@
     "timeMonth": 362,
     "timeYear": 378,
     "dailyMinutesDown": {
+      "2024-09-18": 2,
       "2024-06-28": 17,
       "2024-06-04": 51,
       "2024-04-04": 176,
@@ -27,7 +28,7 @@
     "url": "https://speedtest.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.lightcrimson.com.ico",
     "slug": "speed-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +40,7 @@
     "timeMonth": 361,
     "timeYear": 375,
     "dailyMinutesDown": {
+      "2024-09-18": 0,
       "2024-06-04": 49,
       "2024-04-04": 175,
       "2024-01-22": 37

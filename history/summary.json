@@ -29,7 +29,7 @@
     "url": "https://speedtest.lightcrimson.com",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.lightcrimson.com.ico",
     "slug": "speed-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 365,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2024-11-30": 0,
       "2024-09-18": 66,
       "2024-06-04": 49,
       "2024-04-04": 175,
